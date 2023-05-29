@@ -301,6 +301,6 @@ result
 ```
 
 ```
-view image with https://down-br.img.susercontent.com/file/[code-from-json-response]
+view image with https://down-br.img.susercontent.com/file/[code-from-json-result]
 https://down-br.img.susercontent.com/file/br-11134207-7qukw-lf360p701cdn03
 ```
