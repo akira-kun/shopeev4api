@@ -5,6 +5,7 @@ change params [shopid,itemid] to grab any product info OR
 exclude itemid from the url params and set limit to 999 to return all the products from any shopid
 
 
+code
 ```
 <div id="test"></div> 
 
