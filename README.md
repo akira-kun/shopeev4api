@@ -5,7 +5,7 @@ change params [shopid,itemid] to grab any product info OR
 exclude itemid from the url params to return all the products
 
 
-[code]
+```
 <div id="test"></div> 
 
 <script>
@@ -16,4 +16,4 @@ fetch(`https://api.allorigins.win/get?url=${encodeURIComponent('https://shopee.c
 })
 .then(data => document.getElementById("test").innerHTML = data.contents);
 </script>
-[/code]
+```
