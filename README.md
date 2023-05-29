@@ -2,7 +2,7 @@
 Simplest API for shopee v4
 
 change params [shopid,itemid] to grab any product info OR
-exclude itemid from the url params to return all the products from any shopid
+exclude itemid from the url params and set limit to 999 to return all the products from any shopid
 
 
 ```
